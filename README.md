@@ -80,6 +80,8 @@ int main()
     }
     return 0;
 }
+```
+```
 ┌──(kali㉿kali)-[~/Downloads/corCTF/babyrev]
 └─$ ./brute  
 see?_rEv_aint_so_bad  
