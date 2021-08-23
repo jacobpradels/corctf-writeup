@@ -84,3 +84,5 @@ see?_rEv_aint_so_bad
 ```
 
 flag : `corctf{see?_rEv_aint_so_bad}`
+
+TLDR: Flag was decoded with XOR42 in the program's source.  Used this knowledge along with the ROT_N algorithm in the source to brute force the solution.
