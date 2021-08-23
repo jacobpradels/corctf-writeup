@@ -18,6 +18,7 @@ running `file` showed that it was an ELF 64 bit pie executable
 
 With that my first thought was to run `strings babyrev | grep corctf` to see if anything came up
 ![image of running strings](https://i.imgur.com/J3Mx0GW.png)
+
 and something did come up!
 
 But after further inspection there didn't seem to be much info as far as the flag goes, so I had to spend some more time digging deeper.
