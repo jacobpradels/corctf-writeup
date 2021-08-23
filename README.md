@@ -11,7 +11,7 @@ well uh... this is what you get when you make your web guy make a rev chall
 
 ### Body (TLDR at bottom)
 
-Upon downloading the file I unzipped it and found the challenge file named `babyrev`
+Upon downloading the file I extracted it and found the challenge file named `babyrev`
 
 running `file` showed that it was an ELF 64 bit pie executable
 ![image of terminal showing file command](https://i.imgur.com/vIUEmp6.png)
