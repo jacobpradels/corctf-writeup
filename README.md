@@ -26,6 +26,7 @@ But after further inspection there didn't seem to be much info as far as the fla
 At this point I opened Ghidra and went into the main function to see if I could figure out some of the logic.
 
 I spent a bit of time renaming variables in the C code Ghidra generated to try to make sense of it and this is what I came up with.
+
 ![Image of ghidra C code](https://i.imgur.com/P9ngNtC.png)
 
 At this point I was able to determine the main logic of the function.
